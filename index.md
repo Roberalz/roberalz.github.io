@@ -4,7 +4,7 @@
 
 ## ¿Quién soy?
 
-Soy un informático especializado en sistemas operativos, con conocimientos en seguridad informática. Me apasiona la administración, configuración y optimización de sistemas, así como la protección de la información y la prevención de amenazas.
+Soy un informático especializado en sistemas operativos, con conocimientos en seguridad informática. Me apasiona la administración, configuración y optimización de sistemas, así como la protección de la información y la prevención de amenazas. Miembro de la distribución Lubuntu.
 
 ---
 
